@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0
 zabbix/zabbix-web-nginx-mysql:6.0-lts
 zabbix/zabbix-server-mysql:6.0-lts
+zabbix/zabbix-agent:alpine-6.0-lts
